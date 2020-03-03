@@ -1,0 +1,3 @@
+# Score Tracker App
+
+A Web Application that pits Player 1 vs Player 2. The players may set the score to a number of thier choosing and the app will keep track of of each players individual score. When one of the players reaches the score limit set the tracker will turn that players score number green. At this time the players may hit the reset button and the tracker will return both score to zero and they may play again.
